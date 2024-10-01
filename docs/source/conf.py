@@ -2,9 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Test RTD2'
+author = 'RJAW'
 
 release = '0.1'
 version = '0.1.0'
@@ -20,8 +19,7 @@ extensions = [
 ]
 
 intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
+    'main': ('https://wajr-test-rtd1.readthedocs.io/en/latest/', None)
 }
 intersphinx_disabled_domains = ['std']
 
