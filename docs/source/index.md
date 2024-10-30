@@ -2,7 +2,7 @@
 
 Subproject.
 
-Link back to main: {ref}`main:main`
+Link back to main: {ref}`main:installation`
 
 ## Contents
 
